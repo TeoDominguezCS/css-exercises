@@ -1,0 +1,17 @@
+/* styles.cs */
+.odd {
+    background-color: #FF9999;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.odd.cool {
+    font-size: 24px;
+}
+#one {
+    color: #5579e7;
+    font-size: 36px;
+}
+#two {
+    background-color: rgb(0, 244, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
