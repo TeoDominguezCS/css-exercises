@@ -1,0 +1,12 @@
+.apple,
+.banana {
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman", sans-serif;
+}
+.apple {
+    background-color: #000000;
+    color: #ffffff
+}
+.banana {
+    background-color: #ffff00;
+}
